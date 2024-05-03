@@ -6,14 +6,10 @@ def permutation(n):
     for i in range(n):
         
         if (i+1)%2!=0:
-            
             arr[i]=j
             x=True
             
-            
-            
         else:
-            
              arr[i]=n-j+1
              y=True
         
