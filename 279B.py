@@ -1,5 +1,4 @@
 def function(n,t,a) :
-
     m = 0
 
     for i in range(n) :
